@@ -1,1 +1,1 @@
-web: gunicorn creditcardapproval.app:app
+web: gunicorn app:app
